@@ -1,1 +1,1 @@
-This calculator handles all single digit Polish Notations or Reverse Polish Notations.
+This calculator handles all single digit expressions in Polish Notations or Reverse Polish Notations.
