@@ -24,7 +24,7 @@ int FindMin(BstNode* root) //moving as left as possible
 	return root->data;
 }
 
-int FindMax(BstNode* root) //moving as left as possible
+int FindMax(BstNode* root) //moving as right as possible
 {
 	if (root == NULL)
 	{
