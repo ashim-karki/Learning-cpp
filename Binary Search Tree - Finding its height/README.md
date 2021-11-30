@@ -2,4 +2,5 @@
 
 
 The solution program finds the height of this example tree:
+
 ![BST height example](https://user-images.githubusercontent.com/86644466/143976358-f65e010d-c73e-4e95-915f-be40127d39c0.png)
