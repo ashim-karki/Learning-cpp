@@ -11,7 +11,7 @@ The example tree and queue is shown below:
 The final order should be as: F D J B E G K A C I H
 
 
-PREORDER, INORDER, POSTORDER TRAVERSAL
+PREORDER, INORDER, POSTORDER TRAVERSAL:
 
 Recursion is used to traverse through the tree in the desired manner.
 
