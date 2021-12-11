@@ -18,7 +18,7 @@ void BubbleSort(int A[], int n)
 				flag = 1;
 			}
 		}
-		if (flag == 0)
+		if (flag == 0)//if no sorting occurs then the list is completely sorted so no need to move to another pass
 			break;
 	}
 }
