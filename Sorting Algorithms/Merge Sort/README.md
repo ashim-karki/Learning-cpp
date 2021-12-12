@@ -1,1 +1,1 @@
-Divide and conquer algorithm. The array is divided (e.g. by recursion) and merged together in sorted order.
+Divide and conquer algorithm. The array is divided (e.g. by recursion) and merged together in sorted order. It is NOT an in-place sorting algorithm i.e. it does not take constant amount of extra memory but can be made one.
